@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sewasew2127
 - Here are some things about me
-    * I am currently working a government office as a software developer
-    * I have been working with different programming languages and framework
+    * I am currently working a govrnmnet office as a software developer position
+    * I have been working with different programming languages and frameworks
     * currentliy am working on c and c++ during office hours and PHP (Laravel ) and sometimes word press in my spare time 
     * I’m currently learning In AAU for my MA in SWE
     
